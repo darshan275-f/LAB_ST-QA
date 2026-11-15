@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/report.html
+reports/test_run.log
+screenshots/*.png
+!screenshots/.gitkeep
+!reports/.gitkeep
